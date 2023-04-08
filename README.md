@@ -1,8 +1,9 @@
 # Unity-Car
 Unity for Car Driving (ML not attached)
 
-<h3> Test v.1 April 8th 2023 </h3>
-
+<h3> Test v.1</h3>
+ April 8th 2023 
+ 
 Implemented the Car controller which handle the steering the handle and accelarating and breaking of the car. 
 
 Next will be creating the track and check point system from previous ML-Kart project.

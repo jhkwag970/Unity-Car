@@ -13,18 +13,27 @@ Next will be creating the track and check point system from previous ML-Kart pro
 
 <h3> Credits </h3>
 
- car controller:
+<h4> car </h4>
+<hr>
+
+ car controller
  https://www.youtube.com/watch?v=Z4HA8zJhGEk&list=LL&index=4&t=650s
  
+ car Asset
  https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
 
- car track:
- https://assetstore.unity.com/packages/3d/environments/roadways/cartoon-race-track-oval-175061
-
- car sound:
+ car sound
  https://github.com/KatVHarris/GravityInfiniteRunner: carAudio.cs
  
  https://www.youtube.com/watch?v=czTCLRe4CD8&list=LL&index=1&t=188s
 
+ car skid mark
+ https://www.youtube.com/watch?v=7vSw02vwGfg
+ 
+ <h4> others </h4>
+<hr>
  camera: 
  https://www.youtube.com/watch?v=DU-yminXEX0&list=LL&index=2
+ 
+ track
+ https://assetstore.unity.com/packages/3d/environments/roadways/cartoon-race-track-oval-175061

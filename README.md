@@ -38,5 +38,8 @@ Next will be creating the track and check point system from previous ML-Kart pro
  track
  https://assetstore.unity.com/packages/3d/environments/roadways/cartoon-race-track-oval-175061
  
- Skid sound
- https://freesound.org/people/Medartimus/sounds/217542/
+ Skid sound Track 11
+ https://drive.google.com/drive/folders/1Atadk1N3cRavwYW9n2IGN3R6WB9tYVwP
+ 
+ Skid helper code
+ https://answers.unity.com/questions/428237/audio-says-it-is-playing-in-audiosource-but-is-not.html

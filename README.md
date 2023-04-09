@@ -13,7 +13,7 @@ Next will be creating the track and check point system from previous ML-Kart pro
 
 <h3> Credits </h3>
 
-<h4> car </h4>
+<h4> Car </h4>
 <hr>
 
  car controller
@@ -30,7 +30,7 @@ Next will be creating the track and check point system from previous ML-Kart pro
  car skid mark
  https://www.youtube.com/watch?v=7vSw02vwGfg
  
- <h4> others </h4>
+ <h4> Others </h4>
 <hr>
  camera: 
  https://www.youtube.com/watch?v=DU-yminXEX0&list=LL&index=2

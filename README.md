@@ -5,7 +5,7 @@ Unity for Car Driving (ML not attached)
 
 Lighting not baked Yet
 
-[![Video Label](http://img.youtube.com/vi/9AP93leFCc0.jpg)](https://www.youtube.com/watch?v=9AP93leFCc0)
+[![Video Label](http://img.youtube.com/vi/9AP93leFCc0/0.jpg)](https://www.youtube.com/watch?v=9AP93leFCc0)
 
 <h3> Test v.1</h3>
 April 8th 2023 

@@ -1,6 +1,12 @@
 # Unity-Car
 Unity for Car Driving (ML not attached)
 
+<h3> Test V.2 </h3>
+
+Lighting not baked Yet
+
+[![Car](http://img.youtube.com/vi/9AP93leFCc0.jpg)](https://www.youtube.com/watch?v=9AP93leFCc0)
+
 <h3> Test v.1</h3>
 April 8th 2023 
  
